@@ -6,6 +6,7 @@
 
 ## Tools
 - [Excalidraw-Animate](http://dai-shi.github.io/excalidraw-animate) by [Daishi Kato](https://twitter.com/dai_shi)
+- [GouTu AI](https://draw.lzkz.top/) - Generate editable architecture / sequence / flow diagrams from one Chinese or English sentence on an Excalidraw canvas. Open source: [co-pine/ai-excalidraw](https://github.com/co-pine/ai-excalidraw)
 
 ## Articles
 - [Excalidraw's Blog](https://blog.excalidraw.com)
